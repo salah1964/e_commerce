@@ -6,6 +6,7 @@
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>techblog</title>
+<h1><a href="https://salahmaid.github.io/techblog/">techblog</a></h1>
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="techblog" />
 <meta property="og:locale" content="en_US" />
